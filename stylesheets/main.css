@@ -27,6 +27,7 @@ body
 {
     display: inline-block;
     width: 120px;
+    height: 25px;
     padding: 5px 10px 5px 10px;
     margin-right: -3px;
     background-color: #C0C0C0;
