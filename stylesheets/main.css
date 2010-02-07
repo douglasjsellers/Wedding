@@ -54,6 +54,10 @@ body
     padding-bottom: 15px;
     background-color: #f44253;
 }
+.padded_text
+{
+    padding: 5px 5px 5px 5px;
+}
 
 .align_right
 {
