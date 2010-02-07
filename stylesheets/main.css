@@ -23,6 +23,11 @@ body
     
 }
 
+.top-level-header  a:link { text-decoration:none; color: #2F2F4F }
+.top-level-header  a:visited { text-decoration:none; color: #2F2F4F }
+.top-level-header  a:hover { text-decoration:none }
+.top-level-header  a:active { text-decoration:none }
+
 .top-level-header
 {
     display: inline-block;
@@ -33,6 +38,7 @@ body
     background-color: #C0C0C0;
     text-align: center;
     font-size: 14px;
+
 
     border-radius-top-left: 10px;
     -moz-border-radius-topleft: 10px;
