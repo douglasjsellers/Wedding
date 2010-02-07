@@ -47,6 +47,29 @@ body
     background-color: #F35669;
 }
 
+.align_right
+{
+    float: right;
+    margin-left: 1em;
+}
+
+.headline
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 0px 5px 0px;
+}
+
+#index_main_text
+{
+    padding: 10px 10px 0px 10px;
+}
+
+#index_yellow_image
+{
+    padding: 10px 0px 0px 0px;
+}
+
 #content-border
 {
     background-color: #F35669;
