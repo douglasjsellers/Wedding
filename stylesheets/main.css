@@ -1,6 +1,7 @@
 body
 {
     font-family: century gothic;
+    color: #2F2F4F;
 }
 
 #header
@@ -72,7 +73,7 @@ body
 
 #content-border
 {
-    background-color: #F35669;
+    background-color: #2F2F4F;
     position: relative;
     top: -22px;
     width: 970px;
@@ -109,5 +110,21 @@ body
     min-height: 500px;
     overflow: visible;
     margin: 5px 5px 5px 5px;
+
+    border-radius-top-left: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+
+    border-radius-top-right: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+
+    border-radius-bottom-left: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+
+    border-radius-bottom-right: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
 
 }
