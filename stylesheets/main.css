@@ -73,6 +73,10 @@ body
     float: right;
     margin-left: 1em;
 }
+li
+{
+    padding-bottom: 10px;
+}
 
 .headline
 {
