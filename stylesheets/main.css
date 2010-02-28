@@ -52,22 +52,17 @@ body
 .top-level-header
 {
     display: inline-block;
-    width: 120px;
-    height: 25px;
-    padding: 5px 10px 5px 10px;
+    width: 140px;
+    height: 28px;
+#    padding: 5px 10px 5px 10px;
+    padding: 0px 0px 0px 0px;
+
     margin-right: -3px;
     background-color: #C0C0C0;
     text-align: center;
     font-size: 12px;
 
 
-    border-radius-top-left: 10px;
-    -moz-border-radius-topleft: 10px;
-    -webkit-border-top-left-radius: 10px;
-
-    border-radius-top-right: 10px;
-    -moz-border-radius-topright: 10px;
-    -webkit-border-top-right-radius: 10px;
 }
 * html .top-level-header
 {

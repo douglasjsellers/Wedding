@@ -1,0 +1,17 @@
+.xtop, .xbottom {display:block; background:#FFFFFF; font-size:1px;}
+.xb1, .xb2, .xb3, .xb4 {display:block; overflow:hidden;}
+.xb1, .xb2, .xb3 {height:1px;}
+.xb2, .xb3, .xb4 {background:#C0C0C0; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF;}
+.xb1 {margin:0 5px; background:#FFFFFF;}
+.xb2 {margin:0 3px; border-width:0 2px;}
+.xb3 {margin:0 2px;}
+.xb4 {height:2px; margin:0 1px;}
+
+
+.blue-xb1, .blue-xb2, .blue-xb3, .blue-xb4 {display:block; overflow:hidden;}
+.blue-xb1, .blue-xb2, .blue-xb3 {height:1px;}
+.blue-xb2, .blue-xb3, .blue-xb4 {background:#2F2F4F; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF;}
+.blue-xb1 {margin:0 5px; background:#FFFFFF;}
+.blue-xb2 {margin:0 3px; border-width:0 2px;}
+.blue-xb3 {margin:0 2px;}
+.blue-xb4 {height:2px; margin:0 1px;}
