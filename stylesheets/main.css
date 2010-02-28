@@ -58,7 +58,7 @@ body
     margin-right: -3px;
     background-color: #C0C0C0;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
 
 
     border-radius-top-left: 10px;
@@ -69,7 +69,10 @@ body
     -moz-border-radius-topright: 10px;
     -webkit-border-top-right-radius: 10px;
 }
-
+* html .top-level-header
+{
+    height: 50px;
+}
 .selected-tab
 {
     padding-bottom: 15px;
@@ -137,6 +140,35 @@ body
     -moz-border-radius-bottomright: 10px;
     -webkit-border-bottom-right-radius: 10px;
 
+}
+* html .index-content-border
+{
+    height: 505px;
+}
+
+* html .details-content-border
+{
+    height: 538px;
+}
+
+.travel-content-border
+{
+    height: 670px
+}
+
+* html .travel-content-border
+{
+    height: 685px
+}
+
+* html .contact-content-border
+{
+    height: 478px
+}
+
+* html .contact-content
+{
+    height: 435px
 }
 
 #content
