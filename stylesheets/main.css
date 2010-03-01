@@ -25,6 +25,7 @@ body
 
 #cara_plus_doug
 {
+    z-index: -1;
     position: relative;
     text-align: left;
     top: 22px;
