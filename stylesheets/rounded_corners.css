@@ -15,3 +15,13 @@
 .blue-xb2 {margin:0 3px; border-width:0 2px;}
 .blue-xb3 {margin:0 2px;}
 .blue-xb4 {height:2px; margin:0 1px;}
+
+.blue-white-xtop, .blue-white-xbottom {display:block; background:#2F2F4F; font-size:1px;}
+
+.blue-white-xb1, .blue-white-xb2, .blue-white-xb3, .blue-white-xb4 {display:block; overflow:hidden;}
+.blue-white-xb1, .blue-white-xb2, .blue-white-xb3 {height:1px;}
+.blue-white-xb2, .blue-white-xb3, .blue-white-xb4 {background:#FFFFFF; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF;}
+.blue-white-xb1 {margin:0 5px; background:#FFFFFF;}
+.blue-white-xb2 {margin:0 3px; border-width:0 2px;}
+.blue-white-xb3 {margin:0 2px;}
+.blue-white-xb4 {height:2px; margin:0 1px;}
