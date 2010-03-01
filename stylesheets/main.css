@@ -108,63 +108,30 @@ body
     padding: 10px 0px 0px 0px;
 }
 
+.blue-box
+{
+    display: block;
+    background-color: #2F2F4F;
+    position: relative;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    height: 12px;
+    font-size: 1px;
+
+}
+
 #content-border
 {
     background-color: #2F2F4F;
     position: relative;
     top: -22px;
     width: 990px;
-    min-height: 535px;
     margin-right: auto;
     margin-left: auto;
     overflow: visible;
 
-    border-radius-top-left: 10px;
-    -moz-border-radius-topleft: 10px;
-    -webkit-border-top-left-radius: 10px;
-
-    border-radius-top-right: 10px;
-    -moz-border-radius-topright: 10px;
-    -webkit-border-top-right-radius: 10px;
-
-    border-radius-bottom-left: 10px;
-    -moz-border-radius-bottomleft: 10px;
-    -webkit-border-bottom-left-radius: 10px;
-
-    border-radius-bottom-right: 10px;
-    -moz-border-radius-bottomright: 10px;
-    -webkit-border-bottom-right-radius: 10px;
-
-}
-* html .index-content-border
-{
-    height: 505px;
 }
 
-* html .details-content-border
-{
-    height: 538px;
-}
-
-.travel-content-border
-{
-    height: 670px
-}
-
-* html .travel-content-border
-{
-    height: 685px
-}
-
-* html .contact-content-border
-{
-    height: 478px
-}
-
-* html .contact-content
-{
-    height: 435px
-}
 
 #content
 {
@@ -172,7 +139,6 @@ body
     position: relative;
     width: 950px;
     left: 15px;
-    top: 17px;
     min-height: 500px;
     overflow: visible;
     margin: 5px 5px 5px 5px;
